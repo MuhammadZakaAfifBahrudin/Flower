@@ -1205,7 +1205,7 @@ body {
 
 .center-name h1{
     color:#fff;
-    font-size:4rem;
+    font-size:3rem;
     font-weight:bold;
     font-family:'Poppins',sans-serif;
     letter-spacing:4px;
@@ -1222,7 +1222,7 @@ body {
 .center-name p{
     margin-top:15px;
     color:#ffd9f3;
-    font-size:1.2rem;
+    font-size:1rem;
     letter-spacing:3px;
     opacity:.9;
 }
